@@ -9,9 +9,9 @@ After some exploring on [Dribbble](https://dribbble.com/) I decided to go for an
 
 📹: [Youtube-Video](https://youtu.be/vemkNQejTX4)
 
-|<img width="300" src="https://github.com/chrishoste/code-verification/img/../../../../..//img/four_digit.png">|
+|<img width="300" src="https://github.com/chrishoste/code-verification/blob/master/img/four_digit.png">|
 |---|
-|<img width="300" src="https://github.com/chrishoste/code-verification/img/../../../../../img/capture.gif">|
+|<img width="300" src="https://github.com/chrishoste/code-verification/blob/master/img/capture.gif">|
 
 
 ## Features
