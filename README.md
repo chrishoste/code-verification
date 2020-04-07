@@ -6,12 +6,17 @@
 After some exploring on [Dribbble](https://dribbble.com/) I decided to go for an `Code Verification`-Design [(see link)](https://dribbble.com/shots/6572364-Code-Verification-IOS-App-Freebies). 
 
 ## My final implementation
+### Youtube ([Link](https://youtu.be/vemkNQejTX4))
+<p align="center">
+  <a href="https://youtu.be/vemkNQejTX4">
+    <img alt="youtube_thumbnail" src="https://img.youtube.com/vi/vemkNQejTX4/0.jpg" width="300" />
+  </a>
+</p>
 
-📹: [Youtube-Video](https://youtu.be/vemkNQejTX4)
-
-|<img width="300" src="https://github.com/chrishoste/code-verification/blob/master/img/four_digit.png">|
-|---|
-|<img width="300" src="https://github.com/chrishoste/code-verification/blob/master/img/capture.gif">|
+<p align="center">
+  <img width="300" src="https://github.com/chrishoste/code-verification/blob/master/img/four_digit.png">
+  <img width="300" src="https://github.com/chrishoste/code-verification/blob/master/img/capture.gif">
+</p>
 
 
 ## Features
