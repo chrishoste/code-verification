@@ -16,8 +16,8 @@ After some exploring on [Dribbble](https://dribbble.com/) I decided to go for an
 ### Screenshots/Gif's
 
 <p align="center">
-  <img width="300" src="https://github.com/chrishoste/code-verification/blob/master/img/four_digit.png">
-  <img width="300" src="https://github.com/chrishoste/code-verification/blob/master/img/capture.gif">
+  <img width="300" src="https://github.com/chrishoste/code-verification/blob/master/img/screenshot_four.png">
+  <img width="300" src="https://github.com/chrishoste/code-verification/blob/master/img/capture_five.gif">
 </p>
 
 ## Features
