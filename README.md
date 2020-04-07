@@ -13,11 +13,12 @@ After some exploring on [Dribbble](https://dribbble.com/) I decided to go for an
   </a>
 </p>
 
+### Screenshots/Gif's
+
 <p align="center">
   <img width="300" src="https://github.com/chrishoste/code-verification/blob/master/img/four_digit.png">
   <img width="300" src="https://github.com/chrishoste/code-verification/blob/master/img/capture.gif">
 </p>
-
 
 ## Features
 
